@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Helder 😁
 </br>🔸Santa Catarina, Brasil 🇧🇷 </br>
-🔸Estudante de Desenvolvimento Web na Trybe 🧑‍🎓 <br/><br/>
+🔸Desenvolvedor Web FullStack :computer: <br/><br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helderme/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heldermedeiross/)<br/><br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helderme/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderme&show_icons=true&theme=gruvbox&locale=pt-br)<br/><br/>
 
