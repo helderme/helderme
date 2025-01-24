@@ -4,8 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helderme/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderme&show_icons=true&theme=gruvbox&locale=pt-br)<br/><br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderme&layout=compact&locale=pt-br)
 
 
